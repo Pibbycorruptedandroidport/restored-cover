@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-27,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"name": "NICKOBELIT/BOOK MIKI RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				66,
+				-136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"name": "NICKOBELIT/BOOK MIKI LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "NICKOBELIT/BOOK MIKI UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"name": "NICKOBELIT/BOOK MIKI DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"name": "NICKOBELIT/BOOK MIKI IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "book",
+			"name": "NICKOBELIT/LEAKERS NOOBS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MICKEY LEAKER 2",
+	"position": [
+		-115,
+		35
+	],
+	"healthicon": "duo",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		71,
+		71
+	],
+	"camera_position": [
+		-80,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 2.4
+}

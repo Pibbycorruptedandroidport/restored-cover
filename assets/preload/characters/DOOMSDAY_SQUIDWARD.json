@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				-42
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				363,
+				-175
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				274,
+				60
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				402,
+				-44
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				250,
+				-5
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DOOMSDAY_SQUIDWARD",
+	"position": [
+		300,
+		50
+	],
+	"healthicon": "duo2",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		570,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2
+}
